@@ -1,4 +1,5 @@
-![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
+![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmszazkwYmxsdDY1MnkybHlmdXdlempwZ2JoZWs4OWphM2RtY3p2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
+
 
 <h1 align="center">Hi 👋, I'm Arkashish Sutradhar</h1>
 <h3 align="center">🚀 Software Engineer | PeopleSoft Developer | Automation | SDE Enthusiast 🧠</h3>

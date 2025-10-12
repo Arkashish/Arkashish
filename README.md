@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
 
 <h1 align="center">Hi 👋, I'm Arkashish Sutradhar</h1>
-<h3 align="center">🚀 Software Engineer | PeopleSoft Developer | Automation Enthusiast 🧠</h3>
+<h3 align="center">🚀 Software Engineer | PeopleSoft Developer | Automation | SDE Enthusiast 🧠</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Systems+Engineer+at+TCS;PeopleSoft+HCM+Developer;Automation+Testing+%26+SQR+Expert;DSA+%7C+JavaScript+%7C+SQL;Always+Learning+New+Things+🚀" alt="Typing SVG" />

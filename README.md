@@ -11,7 +11,7 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" /> -->
 <!-- <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" /> -->
 
-<img align="right" alt="Coding" top="10" width="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXluNWV6NzFjMG1haW5qZGcwODN1NnA5bnAzanlvNXp2cDl2amlrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
+<img align="right" alt="Coding" top="50" width="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXluNWV6NzFjMG1haW5qZGcwODN1NnA5bnAzanlvNXp2cDl2amlrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkashishsutradhar&label=Profile%20views&color=0e75b6&style=flat" alt="arkashishsutradhar" /> </p>
 

@@ -13,12 +13,12 @@
 
 ---
 
-- 🔭 Currently working as a **Systems Engineer @ TCS**  
-- 🧑‍💻 Tech Stack: **PeopleSoft HCM**, **SQR**, **SQL**, **Automation Testing (Katalon)**  
-- 🌱 Learning **Data Structures & Algorithms**, **System Design**, **JavaScript & Node.js**  
-- 💬 Ask me about: **PeopleSoft**, **Automation**, **DSA**, **SQR**, **SQL**  
-- 📫 Reach me at: **arkashishsutradhar21@gmail.com**  
-- 📄 [View My Resume](#) *(Add your link here)*  
+- 🔭 Currently working as a **Systems Engineer @ TCS Digital Cadre**  
+- 🧑‍💻 Tech Stack: **MERN**, **PeopleSoft HCM**, **SQL**, **Automation Testing (Katalon)**
+- 🌱 Learning **Data Structures & Algorithms**, **System Design**, **Java SringBoot**  
+- 💬 Ask me about: ** Web Development, DSA, OS, DBMS **  
+- 📫 Reach me at: **arkashish.sutradhar@gmail.com**  
+- 📄 [View My Resume](https://drive.google.com/file/d/1PjznQbJD9FpMUuQCMy99ZCKwOHYLCkee/view?usp=sharing) *(Add your link here)*  
 - ⚡ Fun fact: *I automate so I can sleep peacefully 😄*
 
 ---

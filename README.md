@@ -8,7 +8,7 @@
 </p>
 
 <!-- <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" /> -->
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" />
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkashishsutradhar&label=Profile%20views&color=0e75b6&style=flat" alt="arkashishsutradhar" /> </p>
 

@@ -7,7 +7,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Systems+Engineer+at+TCS;PeopleSoft+HCM+Developer;Automation+Testing+%26+SQR+Expert;DSA+%7C+JavaScript+%7C+SQL;Always+Learning+New+Things+🚀" alt="Typing SVG" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" />
+<!-- <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" /> -->
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkashishsutradhar&label=Profile%20views&color=0e75b6&style=flat" alt="arkashishsutradhar" /> </p>
 

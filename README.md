@@ -14,12 +14,14 @@
 
 ---
 
-<!-- ✨ About Me Section with GIF to the right -->
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+<!-- ✨ About Me Section with GIF on the Right -->
+<div>
+  <div style="float: right; margin-left: 20px;">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXluNWV6NzFjMG1haW5qZGcwODN1NnA5bnAzanlvNXp2cDl2amlrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" 
+         alt="Coding" width="200" style="border-radius:10px;" />
+  </div>
 
-  <div style="flex: 1; min-width: 300px;">
-
-  ### 🧑‍💻 About Me
+  ### 🧑‍💻 About Me  
   - 🔭 Currently working as a **Systems Engineer @ TCS Digital Cadre**  
   - 🧑‍💻 Tech Stack: **MERN**, **PeopleSoft HCM**, **SQL**, **Automation Testing (Katalon)**  
   - 🌱 Learning **Data Structures & Algorithms**, **System Design**, **Java Spring Boot**  
@@ -27,14 +29,6 @@
   - 📫 Reach me at: **arkashish.sutradhar@gmail.com**  
   - 📄 [View My Resume](https://drive.google.com/file/d/1PjznQbJD9FpMUuQCMy99ZCKwOHYLCkee/view?usp=sharing)  
   - ⚡ Fun fact: *I automate so I can sleep peacefully 😄*
-
-  </div>
-
-  <div style="flex: 0 0 250px; text-align: center;">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXluNWV6NzFjMG1haW5qZGcwODN1NnA5bnAzanlvNXp2cDl2amlrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" 
-         alt="Coding" width="250" style="border-radius:10px; margin-top:10px; margin-bottom:10px;" />
-  </div>
-
 </div>
 
 ---

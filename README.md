@@ -24,7 +24,7 @@
 - 🌱 Learning **Data Structures & Algorithms**, **System Design**, **Java SringBoot**  
 - 💬 Ask me about: **Web Development**, **DSA**, **OS**, **DBMS**  
 - 📫 Reach me at: **arkashish.sutradhar@gmail.com**  
-- 📄 [View My Resume](https://drive.google.com/file/d/1PjznQbJD9FpMUuQCMy99ZCKwOHYLCkee/view?usp=sharing)   
+- 📄 [View My Resume](https://drive.google.com/file/d/15SHKJf39YfWFUbW9EeEfY6IXgCkK6QEH/view?usp=sharing)   
 - ⚡ Fun fact: *I automate so I can sleep peacefully 😄*
 
 ---

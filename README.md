@@ -2,12 +2,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Arkashish Sutradhar</h1>
-<h3 align="center">🚀 Software Engineer | PeopleSoft Developer | Automation | SDE Enthusiast 🧠</h3>
-
-<p align="center">
+<!-- <h3 align="center">🚀 Software Engineer | PeopleSoft Developer | Automation | SDE Enthusiast 🧠</h3> -->
+<h3 align="center">🚀 Software Engineer | Generative AI Engineer | MERN Stack 🧠</h3>
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Systems+Engineer+at+TCS;PeopleSoft+HCM+Developer;Automation+Testing+%26+SQR+Expert;DSA+%7C+JavaScript+%7C+SQL;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+</p> -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Systems+Engineer+%40+TCS+(2%2B+years);Generative+AI+Engineer+%F0%9F%A4%96;LangChain+%7C+GPT-4o+%7C+RAG+Pipelines;Multi-Agent+AI+Systems+Builder;MERN+Stack+%7C+Spring+Boot;LeetCode+Global+Rank+570+%F0%9F%94%A5;Always+Building+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-
 <!-- <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" /> -->
 <!-- <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" /> -->
 
@@ -19,10 +21,11 @@
 **About Me**
 <img align="right" alt="Coding" width="220" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXluNWV6NzFjMG1haW5qZGcwODN1NnA5bnAzanlvNXp2cDl2amlrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
 
-- 🔭 Currently working as a **Systems Engineer @ TCS Digital Cadre**  
-- 🧑‍💻 Tech Stack: **MERN**, **PeopleSoft HCM**, **SQL**, **Automation Testing (Katalon)**
-- 🌱 Learning **Data Structures & Algorithms**, **System Design**, **Java SringBoot**  
-- 💬 Ask me about: **Web Development**, **DSA**, **OS**, **DBMS**  
+- 🔭 Currently working as a **Systems Engineer @ TCS Digital Cadre** (2+ years)
+- 🤖 Building **Generative AI systems** — Multi-Agent Pipelines, RAG, LLM Orchestration
+- 🧑‍💻 Tech Stack: **LangChain · GPT-4o · DeepSeek · MERN · Spring Boot**
+- 🌱 Currently exploring **Agentic AI, Advanced Prompt Engineering & System Design**
+- 💬 Ask me about: **GenAI, LLMs, Web Development, DSA, DBMS**
 - 📫 Reach me at: **arkashish.sutradhar@gmail.com**  
 - 📄 [View My Resume](https://drive.google.com/file/d/15SHKJf39YfWFUbW9EeEfY6IXgCkK6QEH/view?usp=sharing)   
 - ⚡ Fun fact: *I automate so I can sleep peacefully 😄*
